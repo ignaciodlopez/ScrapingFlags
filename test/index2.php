@@ -1,6 +1,6 @@
 <?php
 
-$url = "https://infofunes.com.ar/uploads/centro%20de%20monitoreo%20funes%201.jpeg";
+$url = "https://cdn5.wyscout.com/photos/area4/public/flat/new/Afghanistan.png";
 $dir = "C:/Users/nacho/Desktop/test2";
 $lfile = fopen($dir . basename($url), "w");
 
@@ -14,7 +14,7 @@ curl_setopt($ch, CURLOPT_FILE, $lfile);
 fclose($lfile);
 curl_close($ch);
 
-
+echo "Successfully downloaded";
 
 ?>
 

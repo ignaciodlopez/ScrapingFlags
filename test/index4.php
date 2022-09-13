@@ -43,7 +43,7 @@ $urlImagenes = array(
                 'https://cdn5.wyscout.com/photos/area4/public/flat/new/Afghanistan.png',
                 'https://cdn5.wyscout.com/photos/area4/public/flat/new/Afghanistan.png'
 );
-descargarImagen($urlImagenes, true, './galeria/', 'xt3mp_');
+descargarImagen($urlImagenes, true, '', 'xt3mp_');
 
 
 
