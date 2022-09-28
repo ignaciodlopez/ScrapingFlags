@@ -6,4 +6,5 @@ separar dichos strings obtenidos por un espacio, para poder llamar individualmen
 a los URL y descargarlos.
 
 Número identificador de las banderas del ejemplo: del 0 al 95.
+
 Banderas totales del ejemplo: 96
